@@ -6,9 +6,9 @@
  
 - 📒 I'm skilled in Excel, Power BI, SQL, Python
 
-- 👨‍💻 Take a look at the projects that I did by visiting my Portfolio
-
 - 💼I’m looking to collaborate on Data Analytics and currently looking for an entry-level Data Analyst Role.
+
+- 👨‍💻 Take a look at the projects that I did by visiting my Portfolio: https://codebasics.io/portfolio/Jeevanand-Bendigeri
 
 - 📫 You can contact me at Mail ID: @jeevanandcb@gmail.com
 
